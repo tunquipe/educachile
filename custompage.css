@@ -106,6 +106,11 @@ a{
     padding: 2rem;
     font-size: 12px;
 }
+.help ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 .last-password{
     margin-bottom: 2rem;
 }
@@ -140,6 +145,7 @@ a{
 .custom_required{
     font-size: 12px;
 }
+
 span.help-inline.help-block {
     text-align: left;
 }
