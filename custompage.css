@@ -152,7 +152,7 @@ span.help-inline.help-block {
 /* Large desktop */
 @media (min-width: 1200px) {
     .form-register{
-        width: 735px;
+        width: 835px;
         margin: auto;
     }
 }
