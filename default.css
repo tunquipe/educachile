@@ -13,7 +13,7 @@ body > main > .container {
   padding: 0 15px 0;
 }
 body > main > .container-fluid {
-  margin-bottom: 30%;
+  margin-bottom: 10%;
 }
 a {
   color: #3F51B5;
@@ -180,8 +180,12 @@ a:focus {
   margin-right: 1rem;
 }
 .page-header{
-  border-bottom: 1px solid #808DE8;
+  border-bottom: none;
   padding-bottom: 0;
+  font-weight: bold;
+  font-size: 22px;
+  color: #514959;
+  margin-top: 10px;
 }
 .page-header h4{
   color: #333273;
