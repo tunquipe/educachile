@@ -126,6 +126,11 @@ a:focus {
 .panel-default{
   border-color: #ECF0F1;
 }
+div .panel-teachers{
+  background: #dcdee5;
+  margin: -15px;
+  padding: 15px;
+}
 /* Jquery UI */
 .ui-accordion .ui-accordion-icons{
   padding-left: 0.2em;
