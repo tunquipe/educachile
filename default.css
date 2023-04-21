@@ -170,6 +170,19 @@ div .panel-teachers{
 .panel-collapse .list-group{
   list-style: none;
 }
+.session-info .close-inscriptions{
+  font-size: 18px;
+  font-weight: 800;
+  color: #4f4757;
+  font-style: italic;
+}
+.session-info .btn-home{
+  color: #fff;
+  background-color: #6582fe;
+  border-color: #6582fe;
+  font-weight: 800;
+  font-size: 16px;
+}
 .alert-user{
   background-color: #808de8;
   color: #FFFFFF;
